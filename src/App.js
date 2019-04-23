@@ -178,6 +178,7 @@ class Kunal extends Component {
 <ModalHeader toggle={this.toggle}>Modal title</ModalHeader>
 <ModalBody>
 <p>{this.props.item.url}</p>
+     <p>please wait few sec.. </p>
 <object width="700" height="600" data={this.props.item.url} alt={this.props.name} aria-label="" />
 </ModalBody>
 <ModalFooter>
