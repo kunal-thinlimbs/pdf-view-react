@@ -1,4 +1,4 @@
-This project includes reactstrap for simple css 
+This project includes reactstrap bootstrap for simple css 
 
 ### `npm install` or  `yarn install`
 
