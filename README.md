@@ -1,6 +1,6 @@
 This project includes reactstrap for simple css 
 
-### `npm start` or  `yarn install`
+### `npm install` or  `yarn install`
 
 ### `npm start`  or  `yarn start`
 
