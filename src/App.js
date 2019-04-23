@@ -181,8 +181,8 @@ class Kunal extends Component {
 <object width="700" height="600" data={this.props.item.url} alt={this.props.name} aria-label="" />
 </ModalBody>
 <ModalFooter>
-  <Button color="primary" onClick={this.toggle}>Do Something</Button>
-  <Button color="secondary" onClick={this.toggle}>Cancel</Button>
+ 
+  <Button color="secondary" onClick={this.toggle}>Close</Button>
 </ModalFooter>
 </Modal>
 
